@@ -1,0 +1,9 @@
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\bin\Debug\Tetris_NightwingQky.exe.config
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\bin\Debug\Tetris_NightwingQky.exe
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\bin\Debug\Tetris_NightwingQky.pdb
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\obj\Debug\Tetris_NightwingQky.csprojResolveAssemblyReference.cache
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\obj\Debug\Tetris_NightwingQky.Form1.resources
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\obj\Debug\Tetris_NightwingQky.Properties.Resources.resources
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\obj\Debug\Tetris_NightwingQky.csproj.GenerateResource.Cache
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\obj\Debug\Tetris_NightwingQky.exe
+E:\c#  俄罗斯方块\Tetris_NightwingQky\Tetris_NightwingQky\obj\Debug\Tetris_NightwingQky.pdb
